@@ -8,4 +8,5 @@ SAFRASAS TEST FRONT
    docker run [OPTIONS] IMAGE [COMMAND] [ARG...] De acuerdo a la ubicación raíz.
 
    
+![image](https://github.com/julian4270/safrasas-front/assets/11580379/9103e0e0-acee-4418-bee4-428a32c29afa)
 
