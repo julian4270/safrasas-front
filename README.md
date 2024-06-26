@@ -1,10 +1,12 @@
 SAFRASAS TEST FRONT
 
-1. Descargar raíz del proyecto  
-2. Ejecutar en cmd los comandos:  
+1. Descargar raíz del proyecto
+2. Instalar Angular v18 con el comando
+   npm install -g @angular/cli  
+4. Ejecutar en cmd los comandos:  
    npm install  
    ng serve -o  
-3. Ejecutar (opcional) Docker Image con el comando:  
+5. Ejecutar (opcional) Docker Image con el comando:  
    docker run [OPTIONS] IMAGE [COMMAND] [ARG...] De acuerdo a la ubicación raíz.
 
    
