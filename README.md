@@ -1,7 +1,7 @@
 SAFRASAS TEST FRONT
 
 1. Descargar raíz del proyecto
-2. Instalar Angular v18 con el comando
+2. Instalar Angular v18 con el comando:  
    npm install -g @angular/cli  
 4. Ejecutar en cmd los comandos:  
    npm install  
